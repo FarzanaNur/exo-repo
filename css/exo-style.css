@@ -1,0 +1,36 @@
+h1{
+    background-color: #FFF8E7;
+    text-align: center;
+}
+/* small{
+    text-align: center;
+} */
+.author-name{
+    background-color: rgba(95, 158, 160, 0.658);
+}
+
+.info{
+    background-color: #FFF8E7;
+    border: 5px solid rgba(95, 158, 160, 0.295);
+    border-radius: 15px;
+    margin: 10px 10px 20px;
+    padding: 5px;
+    text-align: justify;
+    text-align: center;
+    
+
+}
+.intro{
+    background-color: #FFF8E7;
+    border: 5px solid rgba(95, 158, 160, 0.295);
+    border-radius: 15px;
+    margin: 20px 10px 50px;
+    padding: 20px;
+    text-align: justify;
+}
+
+.outside-links{
+    border: 5px solid rgba(95, 158, 160, 0.295);
+    margin-left: 10px;
+    display:block;
+}
